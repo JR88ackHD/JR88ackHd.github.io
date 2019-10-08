@@ -1,4 +1,4 @@
-title: Welcome to JR88ackHD's Homepage!
+Title: Welcome to JR88ackHD's Homepage!
 
 You can use the [editor on GitHub](https://github.com/JR88ackHD/JR88ackHd.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
